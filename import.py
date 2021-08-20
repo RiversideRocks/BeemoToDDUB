@@ -6,7 +6,7 @@ import time
 
 load_dotenv()
 
-print("Import a valid logs.beemo.gg url")
+print("Import a valid logs.beemo.gg url (ex. https://logs.beemo.gg/antispam/M3ZoMVB74cuR)")
 url = input()
 
 print("\n Checking you have a valid .env file with a key...")

@@ -1,0 +1,3 @@
+requests
+du.py
+python-dotenv
